@@ -1,4 +1,4 @@
-# Degg
+# Deggstore
 
 > A Desktop app store
 
